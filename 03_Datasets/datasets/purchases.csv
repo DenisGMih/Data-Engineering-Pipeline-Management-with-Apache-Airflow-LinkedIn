@@ -1,0 +1,31 @@
+id,customer_id,product_name,price,quantity
+1,1,Rice - Jasmine Sented,89.36,15
+2,4,Pork - Backs - Boneless,65.21,10
+3,8,Vegetable - Base,85.81,12
+4,2,Pea - Snow,55.15,9
+5,8,"Soup - Campbells, Chix Gumbo",87.68,16
+6,9,"Rum - White, Gg White",82.8,19
+7,7,Carbonated Water - Wildberry,64.72,16
+8,18,Ginger - Crystalized,66.52,10
+9,990,Magnotta - Bel Paese White,70.05,9
+10,991,Bread - Pumpernickel,90.22,8
+11,22,Tilapia - Fillets,73.83,14
+12,19,Fondant - Icing,78.52,5
+13,998,"Potatoes - Instant, Mashed",57.11,20
+14,997,"Beef - Roasted, Cooked",72.14,12
+15,12,Cognac - Courvaisier,60.63,1
+16,13,Sour Cream,78.6,20
+17,14,Parsley - Dried,83.75,15
+18,14,Flour - Semolina,31.18,16
+19,15,Salmon - Fillets,99.94,12
+20,1000,"Schnappes - Peach, Walkers",80.53,11
+21,1000,Appetizer - Smoked Salmon / Dill,30.09,17
+22,11,Chocolate - Milk,51.2,11
+23,11,Bread Crumbs - Japanese Style,53.59,15
+24,18,Wine - Montecillo Rioja Crianza,68.48,10
+25,999,"Wine - Red, Gamay Noir",64.31,8
+26,994,"Yeast - Fresh, Fleischman",42.44,7
+27,999,Muffin Batt - Ban Dream Zero,80.28,16
+28,13,"Veal - Brisket, Provimi, Bone - In",3.64,20
+29,14,"Salmon - Whole, 4 - 6 Pounds",90.98,5
+30,7,Chocolate Liqueur - Godet White,3.84,4

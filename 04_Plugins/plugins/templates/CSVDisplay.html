@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSV Details</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid black;
+        }
+
+        th {
+            background-color: lightgray;
+        }
+
+        .null-cell {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSV Details</h1>
+    
+    <h2>Column Overview</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Column</th>
+                <th>Data Type</th>
+                <th>Unique Value Count</th>
+                <th>Unique Values</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for column_info in column_overview %}
+            <tr>
+                <td>{{ column_info[0] }}</td>
+                <td>{{ column_info[1] }}</td>
+                <td>{{ column_info[2] }}</td>
+                <td>{{ column_info[3] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    
+    <h2>CSV Data</h2>
+    <table>
+        <thead>
+            <tr>
+                {% for header in csv_data[0] %}
+                <th>{{ header }}</th>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in csv_data[1:] %}
+            <tr>
+                {% for column in row %}
+                <td{% if column is none or column == "" %} class="null-cell"{% endif %}>{{ column }}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

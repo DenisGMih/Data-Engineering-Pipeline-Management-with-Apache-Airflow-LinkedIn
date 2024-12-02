@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSV Viewer</title>
+</head>
+<body>
+    <h1>CSV Viewer</h1>
+    <form action="/csvreaderview/csvdisplay" method="post">
+        {{ form.hidden_tag() }}
+        <label for="path">Enter the CSV file path:</label> <br/> <br/>
+        {{ form.path(required=True) }} <br/> <br/>
+        <button type="submit">View CSV</button> <br/>
+    </form>
+</body>
+</html>

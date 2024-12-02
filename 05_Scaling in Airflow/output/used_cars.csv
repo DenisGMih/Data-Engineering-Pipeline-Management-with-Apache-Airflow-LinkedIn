@@ -1,0 +1,246 @@
+registration,car_make,car_model,car_model_year,color,mileage,price,transmission,fuel_type,condition,location
+8303-BLV,Volkswagen,Golf,1987,Orange,47280,878037.29,Manual,Diesel,Used,Atlanta
+0997-BCB,Chevrolet,S10,1992,Maroon,493987,472840.26,Automatic,Hybrid,Used,Boston
+6475-PLS,Porsche,911,1988,Aquamarine,365843,769125.09,Manual,Diesel,Used,Boston
+7102-PYJ,Chevrolet,Blazer,1993,Mauv,344350,30736.86,Manual,Diesel,Used,New York
+1233-ILZ,Ford,Th!nk,2001,Green,330936,427436.17,Automatic,Diesel,Used,Houston
+7411-USH,Chevrolet,Monte Carlo,1996,Green,289233,239277.5,Automatic,Hybrid,Used,Houston
+8012-ABU,Nissan,Rogue,2009,Yellow,402682,270670.76,Automatic,Gasoline,Used,Los Angeles
+5518-JED,Chevrolet,TrailBlazer,2006,Blue,470793,886816.41,Manual,Diesel,Used,Houston
+4303-QRU,Subaru,Impreza,2002,Orange,442543,391666.58,Manual,Electric,Used,San Francisco
+3222-TIC,Chrysler,200,2012,Violet,361054,107695.55,Automatic,Diesel,Used,Seattle
+8184-XSN,GMC,Sierra 2500,2006,Violet,349070,227908.67,Automatic,Diesel,Used,San Francisco
+2163-NYO,Pontiac,Grand Am,2004,Violet,448298,734357.73,Manual,Electric,Used,Dallas
+8875-PCB,Plymouth,Prowler,1999,Teal,356344,920009.33,Automatic,Gasoline,Used,Los Angeles
+7506-GPF,Dodge,Intrepid,1997,Aquamarine,322308,144631.94,Automatic,Electric,Used,Los Angeles
+4228-UMT,Porsche,968,1994,Puce,225870,268067.33,Manual,Gasoline,Used,Seattle
+4028-NRR,Ford,Transit Connect,2013,Purple,461063,883891.88,Manual,Hybrid,Used,Chicago
+1564-BDX,BMW,M3,2010,Goldenrod,498165,966032.68,Automatic,Hybrid,Used,Houston
+4086-MSS,Mitsubishi,Mighty Max Macro,1993,Red,15520,643615.78,Automatic,Electric,Used,Houston
+7431-VGL,Lexus,LS,2007,Maroon,276778,827581.62,Automatic,Gasoline,Used,Chicago
+0866-UYW,Oldsmobile,Silhouette,1999,Purple,194985,126593.14,Automatic,Electric,Used,Dallas
+1555-YVL,Toyota,Corolla,1992,Purple,293516,245225.01,Manual,Diesel,Used,Los Angeles
+8681-BOB,Chevrolet,Silverado 1500,2000,Orange,486974,309711.95,Automatic,Gasoline,Used,Atlanta
+2780-PES,Nissan,Quest,1994,Puce,20620,136992.05,Manual,Diesel,Used,New York
+3323-OGU,Hyundai,Accent,2004,Green,164492,44967.12,Automatic,Electric,Used,Miami
+6450-OXU,Pontiac,Grand Prix,1976,Orange,493292,841078.97,Manual,Diesel,Used,Seattle
+3353-WXQ,Acura,SLX,1996,Crimson,480232,509382.76,Manual,Electric,Used,Boston
+8908-KYQ,Cadillac,Escalade,2006,Turquoise,190606,699080.45,Manual,Hybrid,Used,Los Angeles
+6771-ZOL,Nissan,Armada,2011,Goldenrod,466960,372580.46,Automatic,Electric,Used,Houston
+0607-SLW,Ford,F350,2010,Blue,458624,480021.76,Manual,Diesel,Used,Dallas
+4590-YEV,Ford,Thunderbird,1995,Green,225088,324262.0,Automatic,Gasoline,Used,Boston
+5782-SRU,Ford,Escape,2006,Purple,87012,511121.22,Manual,Hybrid,Used,Dallas
+8459-SQI,Mitsubishi,Lancer,2001,Aquamarine,229326,458398.87,Manual,Hybrid,Used,Seattle
+2902-EGM,Volkswagen,Corrado,1994,Green,393540,68765.4,Automatic,Gasoline,Used,Houston
+0770-DFX,Chevrolet,Silverado 3500,2012,Violet,488008,293842.91,Automatic,Electric,Used,Boston
+4208-BYJ,Chevrolet,1500,1992,Turquoise,486624,924891.15,Automatic,Hybrid,Used,New York
+3985-SCQ,Mercedes-Benz,300TE,1993,Khaki,341367,148625.06,Automatic,Diesel,Used,Atlanta
+8132-MNR,Mazda,Familia,1990,Maroon,317954,681619.63,Automatic,Electric,Used,New York
+2696-SQS,Mercury,Sable,1987,Aquamarine,176995,371974.14,Automatic,Hybrid,Used,Boston
+1152-GKX,Chevrolet,Silverado 2500,2006,Mauv,118446,46801.2,Automatic,Diesel,Used,San Francisco
+8632-WXM,Chevrolet,Corvette,1975,Indigo,368267,329533.84,Manual,Electric,Used,San Francisco
+2246-NLF,Mitsubishi,Lancer,2003,Crimson,406957,196918.39,Manual,Gasoline,Used,Dallas
+5125-LYU,Honda,Civic,2007,Green,275899,570861.85,Manual,Electric,Used,Atlanta
+2320-XZY,Volvo,960,1997,Violet,15449,259485.7,Manual,Gasoline,Used,Houston
+8778-RQK,Acura,CL,1998,Turquoise,376214,87356.36,Automatic,Electric,Used,Seattle
+8418-GYP,Mercedes-Benz,SL-Class,2006,Crimson,498250,198521.14,Manual,Electric,Used,Miami
+4532-RBN,Nissan,Maxima,1995,Yellow,189334,529434.52,Automatic,Electric,Used,New York
+6290-TJD,Volvo,C30,2008,Red,375000,800430.11,Automatic,Electric,Used,Los Angeles
+0728-TDH,Nissan,Sentra,1996,Mauv,347448,134150.16,Manual,Gasoline,Used,Houston
+9626-NAZ,Jaguar,XJ Series,2004,Violet,413857,87081.89,Automatic,Electric,Used,Atlanta
+2086-GUT,Toyota,Prius,2001,Maroon,21409,811125.51,Automatic,Diesel,Used,Chicago
+6528-RTD,Volkswagen,Jetta,2006,Indigo,373365,23206.56,Automatic,Electric,Used,Houston
+1131-LMR,Bentley,Brooklands,2010,Turquoise,468554,459362.88,Automatic,Hybrid,Used,Chicago
+6607-RVC,Mercury,Cougar,1997,Goldenrod,409154,828178.42,Automatic,Diesel,Used,Dallas
+7606-WYV,Chevrolet,Impala,2000,Aquamarine,221753,974114.69,Manual,Electric,Used,New York
+9283-RVV,Honda,Civic,1980,Blue,311434,714921.81,Automatic,Diesel,Used,Atlanta
+8838-VOM,Toyota,T100,1994,Maroon,71508,232027.61,Manual,Diesel,Used,Los Angeles
+3201-ZIA,Lexus,ES,2008,Turquoise,156883,834328.4,Automatic,Diesel,Used,Seattle
+0134-OQA,Mitsubishi,Truck,1985,Teal,307894,167238.21,Manual,Diesel,Used,Houston
+3076-KPN,Cadillac,Escalade EXT,2006,Goldenrod,460542,812576.94,Automatic,Hybrid,Used,Houston
+0432-VOR,Honda,Accord,1993,Pink,446901,375313.76,Manual,Electric,Used,Dallas
+5893-OPL,Ford,Explorer Sport Trac,2009,Mauv,59900,67236.58,Manual,Hybrid,Used,Boston
+6801-WFF,Ford,F350,2011,Orange,39114,136187.53,Manual,Electric,Used,San Francisco
+0426-ZYG,Ford,Escort,1985,Maroon,387904,375393.8,Manual,Diesel,Used,New York
+4153-DYE,Scion,xD,2012,Blue,216419,374995.35,Automatic,Hybrid,Used,Los Angeles
+3350-AGU,Subaru,XT,1985,Green,454643,323546.72,Manual,Electric,Used,Los Angeles
+1660-XBL,Toyota,Solara,2001,Puce,53541,929247.93,Automatic,Electric,Used,Atlanta
+7236-BIH,Mercury,Cougar,1990,Maroon,66312,645681.62,Automatic,Gasoline,Used,Houston
+6667-RHR,Kia,Mohave/Borrego,2009,Crimson,159029,800625.01,Automatic,Gasoline,Used,Houston
+3695-DLP,Mercedes-Benz,300TE,1992,Yellow,211714,61068.19,Manual,Hybrid,Used,Houston
+1950-MYP,Pontiac,Firebird,1984,Aquamarine,309407,219126.43,Automatic,Hybrid,Used,New York
+4702-HDP,GMC,Terrain,2010,Aquamarine,411903,600627.01,Manual,Diesel,Used,Houston
+5207-DJA,Ford,Explorer,2009,Orange,385839,769471.18,Manual,Gasoline,Used,Los Angeles
+2725-KDO,Chevrolet,S10,2003,Violet,485339,26754.99,Manual,Diesel,Used,Miami
+2144-YGB,Suzuki,SJ,1985,Crimson,240297,720159.91,Manual,Gasoline,Used,Miami
+4502-DYB,Oldsmobile,Bravada,1994,Crimson,370583,993572.12,Manual,Gasoline,Used,Chicago
+9903-GNB,Chevrolet,Express 3500,2001,Orange,246293,181955.37,Manual,Hybrid,Used,San Francisco
+9719-NTP,Chevrolet,Express 3500,1998,Maroon,497371,337228.36,Manual,Diesel,Used,New York
+6160-ZVQ,Chevrolet,Caprice,1992,Red,48532,124365.7,Manual,Hybrid,Used,Los Angeles
+2283-TMN,Honda,Civic,1996,Turquoise,278196,744413.06,Automatic,Hybrid,Used,Chicago
+2589-JAB,Ford,Expedition,2002,Puce,477007,829446.39,Manual,Diesel,Used,Dallas
+6664-TUU,Aston Martin,V12 Vantage,2012,Pink,158765,729339.2,Manual,Hybrid,Used,Chicago
+8394-XEO,GMC,Savana 2500,2000,Violet,269363,272904.35,Automatic,Diesel,Used,Los Angeles
+2104-ZIL,Audi,A6,2002,Crimson,310108,649349.03,Automatic,Electric,Used,Dallas
+5790-UBH,Mercury,Grand Marquis,1985,Goldenrod,12592,475987.41,Manual,Gasoline,Used,Los Angeles
+4573-CIN,Suzuki,Sidekick,1993,Aquamarine,231032,981796.24,Automatic,Hybrid,Used,Atlanta
+9918-ESO,Buick,Century,1985,Puce,305844,656055.64,Automatic,Hybrid,Used,New York
+0399-DNS,Nissan,Cube,2012,Fuscia,189273,885621.54,Manual,Hybrid,Used,Chicago
+1228-KDS,Honda,Civic,1997,Turquoise,190314,768336.55,Manual,Gasoline,Used,Los Angeles
+9007-IRO,Jeep,Wrangler,1997,Goldenrod,354826,357115.16,Manual,Electric,Used,San Francisco
+7648-XQP,Porsche,Boxster,2004,Purple,235143,321451.03,Manual,Hybrid,Used,Houston
+4480-SUA,Mitsubishi,Galant,2002,Purple,365766,38330.7,Manual,Diesel,Used,Chicago
+0704-GTF,Mercury,Sable,1988,Crimson,81230,408536.07,Automatic,Gasoline,Used,Seattle
+1859-RHM,Dodge,Ram 2500 Club,1998,Khaki,249932,14272.96,Manual,Hybrid,Used,San Francisco
+1919-HJJ,Land Rover,LR3,2006,Blue,145453,144294.98,Automatic,Hybrid,Used,Chicago
+9342-BGI,Toyota,Camry,1996,Maroon,317711,741916.89,Manual,Electric,Used,Miami
+9582-GIO,Mazda,B2600,1987,Maroon,312293,437741.37,Automatic,Electric,Used,Chicago
+8789-ENX,Volvo,S60,2001,Green,13929,300283.92,Manual,Electric,Used,Boston
+5727-WJW,Chevrolet,Suburban 2500,1998,Green,403488,432589.5,Manual,Electric,Used,Houston
+0390-PJK,Pontiac,6000,1983,Yellow,414426,814530.29,Manual,Electric,Used,Dallas
+8974-BQM,Nissan,NV3500,2012,Aquamarine,169543,518204.62,Manual,Electric,Used,Dallas
+1670-SAN,GMC,1500 Club Coupe,1992,Orange,183321,761096.35,Automatic,Hybrid,Used,Boston
+9996-RSK,Volkswagen,Cabriolet,1997,Blue,464302,994310.98,Manual,Gasoline,Used,Chicago
+1787-AGY,Nissan,Altima,2004,Turquoise,377561,405759.57,Manual,Gasoline,Used,Los Angeles
+6359-RBM,Audi,A6,1999,Crimson,169800,748485.73,Manual,Gasoline,Used,Houston
+7650-KSA,Toyota,Avalon,2000,Goldenrod,175325,534393.11,Automatic,Electric,Used,Miami
+1349-OCX,Volkswagen,GTI,2006,Fuscia,249841,255733.13,Automatic,Diesel,Used,Chicago
+0288-RWM,Bentley,Continental,2009,Aquamarine,95939,215478.61,Manual,Electric,Used,Miami
+6392-WCB,Chevrolet,Astro,1993,Aquamarine,444446,860614.51,Manual,Gasoline,Used,Los Angeles
+1861-ACD,Lotus,Elan,1991,Indigo,321813,929860.33,Automatic,Hybrid,Used,Boston
+3298-DEB,Mitsubishi,Galant,1984,Violet,52370,704787.94,Manual,Hybrid,Used,Miami
+2264-YVP,Mitsubishi,Eclipse,1997,Mauv,102111,457357.96,Manual,Gasoline,Used,Miami
+6322-GTT,Ford,ZX2,2001,Purple,478518,391243.48,Manual,Gasoline,Used,Seattle
+7844-OYF,Jaguar,XJ,2012,Teal,454916,846942.85,Automatic,Diesel,Used,Houston
+0773-AHY,Subaru,Justy,1990,Red,326866,522712.09,Manual,Hybrid,Used,Los Angeles
+0907-QFZ,Porsche,911,1995,Green,259972,917758.67,Manual,Gasoline,Used,Boston
+6974-KXZ,Ford,Expedition,1999,Red,134290,940217.04,Automatic,Hybrid,Used,Seattle
+5552-QHE,Oldsmobile,Custom Cruiser,1992,Maroon,330752,161768.24,Manual,Gasoline,Used,Dallas
+2967-HYY,Toyota,Highlander,2001,Orange,407353,774523.93,Automatic,Hybrid,Used,Houston
+5260-PRJ,Chrysler,Sebring,2005,Green,210044,435198.07,Manual,Electric,Used,Miami
+3391-RYI,Ford,Ranger,1990,Puce,126879,738050.01,Automatic,Gasoline,Used,Miami
+5430-WWQ,Kia,Spectra,2004,Teal,186071,599013.59,Automatic,Hybrid,Used,Atlanta
+0527-CBS,Audi,A5,2008,Maroon,434655,922560.46,Automatic,Hybrid,Used,New York
+7036-QHY,Toyota,Camry Hybrid,2011,Pink,138185,899409.17,Manual,Diesel,Used,San Francisco
+8753-JXX,Pontiac,Trans Sport,1997,Goldenrod,371789,185032.36,Automatic,Electric,Used,Miami
+7838-FCW,Chevrolet,Suburban 1500,1997,Fuscia,61465,95451.63,Automatic,Gasoline,Used,Atlanta
+8007-UQH,Dodge,Charger,2008,Pink,281398,645722.48,Manual,Gasoline,Used,Atlanta
+2678-LQG,Ford,Laser,1986,Violet,194862,837718.85,Manual,Gasoline,Used,Los Angeles
+8230-ESS,Peugeot,207,2006,Yellow,126077,784791.87,Manual,Electric,Used,Houston
+1567-TLR,Dodge,Ram 3500,2009,Red,124556,318977.31,Automatic,Gasoline,Used,Chicago
+2723-RWO,Mitsubishi,Diamante,1992,Fuscia,261612,887391.87,Manual,Diesel,Used,Boston
+4626-TLA,BMW,530,2007,Puce,492485,494055.65,Automatic,Electric,Used,Houston
+0917-ZWD,Ram,1500,2011,Teal,252702,933819.79,Automatic,Gasoline,Used,Atlanta
+3052-VIF,Ford,Windstar,1996,Green,313039,181818.25,Automatic,Hybrid,Used,Seattle
+1527-QDX,GMC,Canyon,2008,Mauv,64467,975977.67,Manual,Hybrid,Used,San Francisco
+6567-EMD,Honda,Odyssey,1995,Red,199607,128741.51,Automatic,Gasoline,Used,New York
+1293-YIV,Mitsubishi,Endeavor,2010,Orange,17795,908588.1,Manual,Gasoline,Used,Atlanta
+2133-PAP,Mitsubishi,L300,1987,Blue,364317,729866.3,Manual,Hybrid,Used,Seattle
+5966-KVR,Acura,TL,2008,Teal,405687,11430.79,Automatic,Gasoline,Used,Miami
+2795-WXX,Maserati,Biturbo,1985,Violet,104979,242302.49,Manual,Diesel,Used,Boston
+7287-YDR,Chevrolet,Corvette,2002,Yellow,472093,494465.78,Manual,Gasoline,Used,Chicago
+5209-FOL,Chrysler,Sebring,1995,Fuscia,161696,384946.87,Automatic,Electric,Used,Atlanta
+2975-QIN,Mercury,Sable,2008,Khaki,142095,186386.32,Manual,Electric,Used,Boston
+3950-GYD,Ford,Bronco,1984,Maroon,275063,943736.06,Manual,Diesel,Used,Seattle
+7034-AYF,Chevrolet,Avalanche 1500,2005,Indigo,78777,247456.35,Automatic,Diesel,Used,San Francisco
+3123-WHG,Aston Martin,DBS,2009,Blue,208118,527212.13,Manual,Diesel,Used,Seattle
+0123-CXL,Aston Martin,DBS,2011,Yellow,470452,970465.5,Manual,Diesel,Used,Dallas
+1437-UVS,Mercedes-Benz,GL-Class,2010,Teal,252176,699321.52,Manual,Diesel,Used,San Francisco
+5456-ISF,Oldsmobile,88,1994,Crimson,337255,974148.15,Manual,Gasoline,Used,Seattle
+0826-DJZ,Mercury,Sable,2000,Indigo,84873,460763.9,Manual,Hybrid,Used,Dallas
+9116-WKL,Volkswagen,Golf,1991,Aquamarine,479244,304510.76,Manual,Gasoline,Used,Atlanta
+0598-HVN,Mercedes-Benz,400E,1993,Purple,142016,27974.3,Manual,Electric,Used,Atlanta
+9319-QJH,Ford,E-Series,1991,Maroon,155796,472816.67,Automatic,Gasoline,Used,San Francisco
+6054-IUX,Lexus,GS,2005,Blue,484972,633776.21,Manual,Hybrid,Used,Chicago
+9299-WMN,Nissan,Pathfinder,2010,Yellow,399364,23583.13,Automatic,Gasoline,Used,Atlanta
+7090-GLP,Infiniti,I,2002,Violet,42689,759199.46,Manual,Diesel,Used,Chicago
+7129-OWC,Cadillac,STS-V,2008,Mauv,220166,150918.61,Automatic,Hybrid,Used,New York
+6973-UOC,Ford,F-Series,2008,Khaki,195781,603779.98,Automatic,Hybrid,Used,San Francisco
+9569-ORL,Hyundai,XG350,2004,Crimson,54921,501822.99,Manual,Electric,Used,Miami
+0583-PGT,Pontiac,Grand Prix,1977,Puce,265996,117312.77,Manual,Diesel,Used,Atlanta
+1024-RVI,Oldsmobile,Intrigue,2000,Yellow,52566,296472.85,Automatic,Gasoline,Used,Atlanta
+6745-POO,Kia,Sedona,2004,Violet,408530,700174.97,Manual,Gasoline,Used,Los Angeles
+4648-VQR,Oldsmobile,Alero,2004,Green,239099,234835.08,Automatic,Diesel,Used,Dallas
+7952-TQA,Toyota,Camry Solara,2006,Puce,63961,158344.26,Manual,Hybrid,Used,Seattle
+9627-VOS,Nissan,Rogue,2011,Blue,57037,826530.43,Manual,Gasoline,Used,Boston
+7874-QFS,Land Rover,Discovery,2010,Khaki,308069,830742.41,Automatic,Gasoline,Used,San Francisco
+0644-QKK,Dodge,Ram Van 2500,1998,Blue,8128,78150.6,Manual,Diesel,Used,Chicago
+8796-ECG,Chevrolet,Camaro,1999,Fuscia,443334,974273.16,Manual,Electric,Used,San Francisco
+9151-KZS,Buick,Riviera,1998,Violet,145002,445204.52,Manual,Gasoline,Used,Atlanta
+0020-QCY,Mercedes-Benz,W201,1984,Yellow,446758,88026.52,Manual,Electric,Used,Seattle
+4600-GZS,Porsche,944,1991,Crimson,85833,188589.94,Automatic,Gasoline,Used,Los Angeles
+9627-REN,Hyundai,Sonata,2005,Turquoise,441879,209754.92,Manual,Gasoline,Used,Los Angeles
+6905-ZXB,Kia,Amanti,2008,Purple,217090,287607.32,Automatic,Hybrid,Used,New York
+0244-TDC,GMC,Canyon,2008,Crimson,164274,200834.85,Manual,Gasoline,Used,San Francisco
+6448-VRD,Chevrolet,Tracker,1999,Violet,465209,960471.93,Manual,Hybrid,Used,Miami
+5910-NJY,BMW,5 Series,2003,Pink,425253,331373.63,Manual,Electric,Used,Los Angeles
+6409-CVP,Mitsubishi,Tredia,1984,Crimson,243725,140764.18,Automatic,Gasoline,Used,Dallas
+3107-NXP,Chrysler,Sebring,2005,Purple,413504,34697.22,Automatic,Gasoline,Used,Seattle
+2522-ISQ,Pontiac,Sunbird,1993,Mauv,398224,179202.12,Manual,Hybrid,Used,Boston
+8001-FRD,Ford,Ranger,1997,Violet,209752,958183.94,Automatic,Hybrid,Used,Chicago
+1286-ZZO,Lexus,LS,2006,Teal,362419,738873.93,Manual,Electric,Used,Miami
+2225-CGV,BMW,Alpina B7,2008,Crimson,460711,676616.74,Automatic,Electric,Used,Dallas
+5423-FGL,Ford,Explorer Sport Trac,2009,Goldenrod,83175,560417.78,Automatic,Hybrid,Used,Boston
+4330-IOR,Honda,Civic,2008,Aquamarine,499857,867546.52,Manual,Hybrid,Used,Los Angeles
+3576-DDJ,Mercury,Grand Marquis,1987,Aquamarine,96389,463208.84,Manual,Hybrid,Used,Los Angeles
+0059-XHG,Land Rover,Freelander,2010,Goldenrod,267197,964898.73,Manual,Electric,Used,Los Angeles
+2591-SZK,Lexus,RX Hybrid,2012,Purple,318850,242972.94,Automatic,Diesel,Used,Atlanta
+1652-APY,Ford,Explorer,1999,Khaki,392802,697866.55,Automatic,Diesel,Used,Seattle
+4826-FAX,Audi,RS6,2003,Orange,146142,275202.04,Manual,Hybrid,Used,New York
+8454-MKO,Mitsubishi,Galant,2008,Khaki,56821,187072.19,Automatic,Gasoline,Used,Los Angeles
+6551-AEB,Maserati,Spyder,2003,Teal,266724,113213.9,Manual,Electric,Used,San Francisco
+3321-CFQ,Dodge,Ram Wagon B150,1994,Yellow,464939,465134.21,Automatic,Electric,Used,Miami
+0988-NZY,Lexus,SC,2002,Purple,260117,573604.48,Automatic,Gasoline,Used,San Francisco
+2674-NEB,Isuzu,Hombre Space,2000,Green,197332,412236.4,Automatic,Hybrid,Used,San Francisco
+0714-JPI,Chrysler,Sebring,1998,Crimson,267551,581375.48,Manual,Electric,Used,Seattle
+5466-WES,Acura,RL,1996,Purple,294398,769195.03,Manual,Diesel,Used,Los Angeles
+7489-MYX,Isuzu,Impulse,1992,Violet,416316,323391.52,Manual,Hybrid,Used,Miami
+2834-OFS,Volvo,V70,2005,Purple,120534,320539.69,Manual,Diesel,Used,Miami
+4400-ZID,Mercedes-Benz,SLR McLaren,2009,Red,42606,24034.69,Automatic,Diesel,Used,Miami
+4208-AQL,Chrysler,Concorde,1997,Maroon,258001,340763.5,Manual,Gasoline,Used,Chicago
+9625-CIZ,Ford,Bronco II,1985,Yellow,423506,196623.4,Automatic,Gasoline,Used,Seattle
+3534-SNN,Volkswagen,Eos,2008,Blue,86806,540588.64,Manual,Diesel,Used,Los Angeles
+4247-ECE,Nissan,Xterra,2001,Indigo,371381,694699.38,Automatic,Gasoline,Used,New York
+2065-WRG,Oldsmobile,Bravada,1999,Turquoise,287256,547667.42,Automatic,Hybrid,Used,New York
+8043-DAC,Pontiac,Grand Prix,1980,Teal,420249,296130.72,Manual,Gasoline,Used,San Francisco
+5334-DTO,Cadillac,Escalade ESV,2004,Goldenrod,247212,813650.34,Manual,Electric,Used,Chicago
+0284-UMN,GMC,Yukon,2005,Khaki,276338,169007.84,Manual,Gasoline,Used,New York
+2771-WVS,Spyker,C8,2007,Crimson,485103,866449.3,Automatic,Gasoline,Used,Miami
+3598-RJF,Honda,CR-V,2012,Pink,149234,244441.32,Manual,Gasoline,Used,San Francisco
+6375-ABR,BMW,3 Series,1992,Green,297327,35768.08,Manual,Hybrid,Used,Atlanta
+5789-XGC,GMC,3500 Club Coupe,1997,Pink,315195,167866.58,Manual,Gasoline,Used,Dallas
+4421-QAX,Mercedes-Benz,Sprinter 2500,2012,Purple,86831,285301.65,Automatic,Electric,Used,Miami
+8110-DOV,Ford,Expedition,1997,Maroon,110300,757262.71,Manual,Hybrid,Used,Atlanta
+0317-HBE,Chevrolet,Avalanche 2500,2006,Red,283487,482807.63,Manual,Hybrid,Used,Dallas
+3539-URM,Buick,Regal,1987,Pink,288958,367959.89,Manual,Gasoline,Used,Houston
+0029-WQQ,Dodge,Grand Caravan,2004,Violet,480455,815715.37,Automatic,Hybrid,Used,San Francisco
+1898-ZUA,Mercedes-Benz,CL-Class,2007,Teal,265600,154357.81,Manual,Gasoline,Used,Chicago
+7420-BQA,Oldsmobile,Aurora,2002,Red,68050,621722.97,Manual,Electric,Used,San Francisco
+1297-MXJ,Chevrolet,Volt,2011,Goldenrod,16865,18466.17,Manual,Electric,Used,Atlanta
+6573-PUE,Lexus,LX,2006,Red,438315,908050.61,Manual,Gasoline,Used,Houston
+4963-CNV,Oldsmobile,Cutlass Supreme,1992,Indigo,374032,219490.56,Automatic,Diesel,Used,Dallas
+8504-IFC,Buick,Park Avenue,2000,Crimson,212671,269939.07,Manual,Hybrid,Used,Miami
+6254-QCF,Acura,TL,2006,Violet,147372,778270.49,Automatic,Diesel,Used,Atlanta
+9630-HLW,Infiniti,FX,2012,Teal,165768,368829.44,Manual,Gasoline,Used,Atlanta
+7322-ONM,Mazda,Mazda6,2006,Blue,116791,32566.65,Automatic,Diesel,Used,Chicago
+7467-YXK,Mercury,Sable,1994,Crimson,357075,789713.36,Manual,Hybrid,Used,Atlanta
+2559-MLC,Mercury,Mariner,2006,Pink,315276,814423.57,Automatic,Diesel,Used,Dallas
+3065-PBY,Mercedes-Benz,SLK55 AMG,2009,Purple,404111,34604.16,Automatic,Electric,Used,Houston
+8069-KIO,Acura,NSX,2000,Crimson,499943,870239.19,Automatic,Diesel,Used,Seattle
+2177-GRE,Chevrolet,Tahoe,2003,Aquamarine,417442,59585.3,Automatic,Hybrid,Used,New York
+7582-WJX,Acura,SLX,1997,Yellow,13253,475842.69,Automatic,Diesel,Used,Atlanta
+3082-SZU,Acura,SLX,1996,Mauv,177045,96333.98,Automatic,Gasoline,Used,Miami
+9447-ASX,Mercury,Grand Marquis,2009,Maroon,356952,878548.93,Automatic,Diesel,Used,San Francisco
+5555-QHM,Porsche,911,2009,Fuscia,282368,229315.39,Automatic,Gasoline,Used,Houston
+0643-XTI,Mazda,B-Series,2002,Maroon,64713,305775.44,Automatic,Gasoline,Used,Seattle
+5796-VLK,Volvo,C70,2002,Maroon,71439,116760.53,Manual,Hybrid,Used,Chicago
+6446-IXG,Mazda,Mazda2,2011,Purple,97239,534504.94,Manual,Diesel,Used,Seattle
+2231-JQC,Saab,9-5,2001,Teal,129046,487212.4,Automatic,Electric,Used,Atlanta
+5595-WXK,Toyota,Yaris,2010,Maroon,498867,738430.77,Automatic,Electric,Used,Miami
+3686-NLZ,Ford,E250,2009,Orange,207781,124130.66,Manual,Hybrid,Used,Seattle
+1603-OPF,GMC,Yukon,1995,Goldenrod,217961,73819.93,Automatic,Electric,Used,Miami
+4175-LBS,Chevrolet,Malibu,2013,Orange,9411,26053.57,Automatic,Diesel,Used,Boston
+1215-ESY,Toyota,Supra,1993,Turquoise,153989,94675.38,Manual,Diesel,Used,Dallas
+6353-XBI,Pontiac,Grand Prix,2001,Turquoise,117596,15818.73,Automatic,Gasoline,Used,Dallas
+3450-FYL,Mazda,B-Series,1999,Fuscia,54660,376544.87,Manual,Hybrid,Used,San Francisco
+7540-EYR,Mazda,626,1993,Teal,362543,549345.44,Automatic,Electric,Used,Houston
